@@ -1,3 +1,5 @@
 install apache
+httpd.conf.tmpl from template
+
 
 restart apache
