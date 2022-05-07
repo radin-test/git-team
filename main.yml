@@ -1,5 +1,5 @@
 install apache
 httpd.conf.tmpl from template
 virtualhost
-
+documet root
 restart apache
